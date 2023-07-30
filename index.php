@@ -435,7 +435,7 @@
         <div class="footer-inner-1">
           <div class="container">
             <div class="row align-items-center">
-        <div class="col-md-3">
+        <div class="col-md-3" align="center">
           <span class="copyright"><i class="far fa-envelope mr-1"></i>contato@pauloroberto.com.br</span><br>
          
         </div>
@@ -460,7 +460,7 @@
           <br>
            <small> <p class="direitos-rodape">@Todos os direitos reservados - <a class="text-dark" data-toggle="modal" href="#modalTermos">Termos de Uso</a></p></small>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3" align="center">
           <ul class="list-inline">
            
             <li class="list-inline-item">
