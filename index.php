@@ -435,7 +435,7 @@
         <div class="footer-inner-1">
           <div class="container">
             <div class="row align-items-center">
-        <div class="col-md-3" align="center">
+        <div class="col-md-3 mb-4" align="center">
           <span class="copyright"><i class="far fa-envelope mr-1"></i>contato@pauloroberto.com.br</span><br>
          
         </div>
